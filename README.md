@@ -1,7 +1,7 @@
 # Spendbud-Presentation
 Spendbud tracks your spends and incomes with a nice and focues user interface.
 
-Designed for iPhone, by [Adit Gupta](https://aditsgupta.com).
+Designed for iPhone, by [Adit Gupta](https://aditsgupta.com) (project owner).
 
 <img height="50" alt="appstore1024" src="https://user-images.githubusercontent.com/55358113/198006048-53fcc785-edbe-497f-919f-5aef0e29c77a.png">
 
