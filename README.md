@@ -16,5 +16,5 @@ Spendbud is an application that lets you track your spends and incomes during th
 ## Technologies
 - Swift
 - SwiftUI
-- CoreDate
+- CoreData
 - CloudKit
